@@ -1,1 +1,1 @@
-from vpyton import Visual
+from visual import *
