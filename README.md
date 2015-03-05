@@ -1,3 +1,4 @@
 # solar-final
-Representing the solar system in vpython
-#Accurate proportions of all the planets: http://meteorite.unm.edu/site_media/pdf/outdoorscale.pdf
+This program creates a 3-D model of our solar system, in which you can add in your own planets.
+Everything inside is exactly to scale, with the correct, proportional physics.
+The python library being used is VPython.
